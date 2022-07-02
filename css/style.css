@@ -16,12 +16,9 @@
     text-align: center;
     border-radius: 10px;
     margin-bottom: 5px;
+    cursor: pointer;
 }
-.blocks:hover{
-    background-color: green;
-    color: black;
-    font-weight: bold;
-}
+
 .blocksCorr{
     background-color: green;
     font-weight: bold;
